@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@daypilot/daypilot-lite-angular": "^3.11.0",
+    "@fullcalendar/core": "^6.0.3",
+    "@fullcalendar/daygrid": "^6.0.3",
+    "@fullcalendar/interaction": "^6.0.3",
+    "daypilot-pro-angular": "https://npm.daypilot.org/daypilot-pro-angular/trial/2021.3.5084.tar.gz"
+  }
+}
